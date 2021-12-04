@@ -1,5 +1,5 @@
 <p align="left">
- <img src="https://komarev.com/ghpvc/?username=Imran-2021" alt="priyanshumay" /> <br>
+ <img src="https://komarev.com/ghpvc/?username=IMRAN-22" alt="priyanshumay" /> <br>
 </p>
 <p align="center">
    <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="35%" align="right">
